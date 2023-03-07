@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "sucrase-node src/server.ts",
+    "start": "sucrase-node src/atividades/leituraEscrita/main.ts",
     "test": "jest"
   },
   "keywords": [],
