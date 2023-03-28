@@ -6,6 +6,11 @@ class HealthCheckController{
     // 20 - Estamos criando um método publico e assincrono chamado check
     // que recebe como parametro (inferido) uma req do tipo Request e uma res do tipo Response
     public async check(req: Request, res: Response) {
+        console.log(req.body)
+        if(req.body) return res.status(500).send()
+        console.log("asdasd", req)
+
+
         // 21 - Estamos retornando um json escrito hello world para quem chamou este método
         return res.json('Hello World')
     }
