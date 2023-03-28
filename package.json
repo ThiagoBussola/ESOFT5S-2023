@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "sucrase-node src/server.ts",
     "start": "sucrase-node src/atividades/leituraEscrita/main.ts",
+    "poke:run": "node src/atividades/poke/src/server.js",
     "test": "jest"
   },
   "keywords": [],
