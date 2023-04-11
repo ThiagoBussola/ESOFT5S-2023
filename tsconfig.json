@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+      "preserveConstEnums": true,
+      "strictNullChecks": true,
+      "sourceMap": true,
+      "module": "CommonJS",
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "allowJs": true,
+      "target": "es5",
+      "outDir": ".build",
+      "moduleResolution": "node",
+      "lib": ["es2019"],
+      "rootDir": "./",
+      "baseUrl": "."
+    },
+    "include": [
+      "src/**/*",
+      "lib/**/*",
+      "scripts/**/*",
+      "templates/**/*"
+    ],
+    "exclude": [
+        "./node_modules"
+    ]
+  }
