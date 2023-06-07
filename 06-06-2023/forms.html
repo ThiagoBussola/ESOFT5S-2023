@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/style.css">
+    <title>Aula dia 06/06</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Registration Form</h2>
+        <form id="registrationForm">
+            <div class="form-group">
+                <label for="name">Name: </label>
+                <input type="text" id="name" name="name" required />
+            </div>
+            <div class="form-group">
+                <label for="email">Email: </label>
+                <input type="text" id="email" name="email" required />
+            </div>
+            <input type="submit" value="Register" />
+        </form>
+        <table id="registrationTable">
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+            </tr>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <script src="./js/forms.js"></script>
+</body>
+</html>
