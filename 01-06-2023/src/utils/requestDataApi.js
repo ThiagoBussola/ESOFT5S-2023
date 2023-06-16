@@ -34,7 +34,6 @@ export class RequestDataApi {
           move: pokeMove.move.name,
         };
       });
-
       const PokeData = {
         name: result.forms[0].name,
         dex: result.game_indices[9].game_index,
@@ -43,6 +42,7 @@ export class RequestDataApi {
         weight: result.weight,
         //stats: pokeStats,
         imgUrl: result.sprites.front_default,
+        imgOfficial: result.sprites.other['official-artwork'].front_default
         //moves: pokeMoves
       };
 

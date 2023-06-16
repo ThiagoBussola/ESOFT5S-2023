@@ -1,0 +1,1361 @@
+[
+  {
+    "name": "bulbasaur",
+    "dex": 1,
+    "version": "firered",
+    "height": 7,
+    "weight": 69,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+  },
+  {
+    "name": "ivysaur",
+    "dex": 2,
+    "version": "firered",
+    "height": 10,
+    "weight": 130,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+  },
+  {
+    "name": "venusaur",
+    "dex": 3,
+    "version": "firered",
+    "height": 20,
+    "weight": 1000,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+  },
+  {
+    "name": "charmander",
+    "dex": 4,
+    "version": "firered",
+    "height": 6,
+    "weight": 85,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+  },
+  {
+    "name": "charmeleon",
+    "dex": 5,
+    "version": "firered",
+    "height": 11,
+    "weight": 190,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+  },
+  {
+    "name": "charizard",
+    "dex": 6,
+    "version": "firered",
+    "height": 17,
+    "weight": 905,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+  },
+  {
+    "name": "squirtle",
+    "dex": 7,
+    "version": "firered",
+    "height": 5,
+    "weight": 90,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+  },
+  {
+    "name": "wartortle",
+    "dex": 8,
+    "version": "firered",
+    "height": 10,
+    "weight": 225,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
+  },
+  {
+    "name": "blastoise",
+    "dex": 9,
+    "version": "firered",
+    "height": 16,
+    "weight": 855,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+  },
+  {
+    "name": "caterpie",
+    "dex": 10,
+    "version": "firered",
+    "height": 3,
+    "weight": 29,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+  },
+  {
+    "name": "metapod",
+    "dex": 11,
+    "version": "firered",
+    "height": 7,
+    "weight": 99,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+  },
+  {
+    "name": "butterfree",
+    "dex": 12,
+    "version": "firered",
+    "height": 11,
+    "weight": 320,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+  },
+  {
+    "name": "weedle",
+    "dex": 13,
+    "version": "firered",
+    "height": 3,
+    "weight": 32,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+  },
+  {
+    "name": "kakuna",
+    "dex": 14,
+    "version": "firered",
+    "height": 6,
+    "weight": 100,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+  },
+  {
+    "name": "beedrill",
+    "dex": 15,
+    "version": "firered",
+    "height": 10,
+    "weight": 295,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png"
+  },
+  {
+    "name": "pidgey",
+    "dex": 16,
+    "version": "firered",
+    "height": 3,
+    "weight": 18,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+  },
+  {
+    "name": "pidgeotto",
+    "dex": 17,
+    "version": "firered",
+    "height": 11,
+    "weight": 300,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+  },
+  {
+    "name": "pidgeot",
+    "dex": 18,
+    "version": "firered",
+    "height": 15,
+    "weight": 395,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+  },
+  {
+    "name": "rattata",
+    "dex": 19,
+    "version": "firered",
+    "height": 3,
+    "weight": 35,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+  },
+  {
+    "name": "raticate",
+    "dex": 20,
+    "version": "firered",
+    "height": 7,
+    "weight": 185,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png"
+  },
+  {
+    "name": "spearow",
+    "dex": 21,
+    "version": "firered",
+    "height": 3,
+    "weight": 20,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png"
+  },
+  {
+    "name": "fearow",
+    "dex": 22,
+    "version": "firered",
+    "height": 12,
+    "weight": 380,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
+  },
+  {
+    "name": "ekans",
+    "dex": 23,
+    "version": "firered",
+    "height": 20,
+    "weight": 69,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
+  },
+  {
+    "name": "arbok",
+    "dex": 24,
+    "version": "firered",
+    "height": 35,
+    "weight": 650,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
+  },
+  {
+    "name": "pikachu",
+    "dex": 25,
+    "version": "firered",
+    "height": 4,
+    "weight": 60,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+  },
+  {
+    "name": "raichu",
+    "dex": 26,
+    "version": "firered",
+    "height": 8,
+    "weight": 300,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png"
+  },
+  {
+    "name": "sandshrew",
+    "dex": 27,
+    "version": "firered",
+    "height": 6,
+    "weight": 120,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
+  },
+  {
+    "name": "sandslash",
+    "dex": 28,
+    "version": "firered",
+    "height": 10,
+    "weight": 295,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
+  },
+  {
+    "name": "nidoran-f",
+    "dex": 29,
+    "version": "firered",
+    "height": 4,
+    "weight": 70,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png"
+  },
+  {
+    "name": "nidorina",
+    "dex": 30,
+    "version": "firered",
+    "height": 8,
+    "weight": 200,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png"
+  },
+  {
+    "name": "nidoqueen",
+    "dex": 31,
+    "version": "firered",
+    "height": 13,
+    "weight": 600,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
+  },
+  {
+    "name": "nidoran-m",
+    "dex": 32,
+    "version": "firered",
+    "height": 5,
+    "weight": 90,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png"
+  },
+  {
+    "name": "nidorino",
+    "dex": 33,
+    "version": "firered",
+    "height": 9,
+    "weight": 195,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png"
+  },
+  {
+    "name": "nidoking",
+    "dex": 34,
+    "version": "firered",
+    "height": 14,
+    "weight": 620,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+  },
+  {
+    "name": "clefairy",
+    "dex": 35,
+    "version": "firered",
+    "height": 6,
+    "weight": 75,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
+  },
+  {
+    "name": "clefable",
+    "dex": 36,
+    "version": "firered",
+    "height": 13,
+    "weight": 400,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
+  },
+  {
+    "name": "vulpix",
+    "dex": 37,
+    "version": "firered",
+    "height": 6,
+    "weight": 99,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png"
+  },
+  {
+    "name": "ninetales",
+    "dex": 38,
+    "version": "firered",
+    "height": 11,
+    "weight": 199,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
+  },
+  {
+    "name": "jigglypuff",
+    "dex": 39,
+    "version": "firered",
+    "height": 5,
+    "weight": 55,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
+  },
+  {
+    "name": "wigglytuff",
+    "dex": 40,
+    "version": "firered",
+    "height": 10,
+    "weight": 120,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
+  },
+  {
+    "name": "zubat",
+    "dex": 41,
+    "version": "firered",
+    "height": 8,
+    "weight": 75,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png"
+  },
+  {
+    "name": "golbat",
+    "dex": 42,
+    "version": "firered",
+    "height": 16,
+    "weight": 550,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+  },
+  {
+    "name": "oddish",
+    "dex": 43,
+    "version": "firered",
+    "height": 5,
+    "weight": 54,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+  },
+  {
+    "name": "gloom",
+    "dex": 44,
+    "version": "firered",
+    "height": 8,
+    "weight": 86,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+  },
+  {
+    "name": "vileplume",
+    "dex": 45,
+    "version": "firered",
+    "height": 12,
+    "weight": 186,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+  },
+  {
+    "name": "paras",
+    "dex": 46,
+    "version": "firered",
+    "height": 3,
+    "weight": 54,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+  },
+  {
+    "name": "parasect",
+    "dex": 47,
+    "version": "firered",
+    "height": 10,
+    "weight": 295,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+  },
+  {
+    "name": "venonat",
+    "dex": 48,
+    "version": "firered",
+    "height": 10,
+    "weight": 300,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png"
+  },
+  {
+    "name": "venomoth",
+    "dex": 49,
+    "version": "firered",
+    "height": 15,
+    "weight": 125,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+  },
+  {
+    "name": "diglett",
+    "dex": 50,
+    "version": "firered",
+    "height": 2,
+    "weight": 8,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png"
+  },
+  {
+    "name": "dugtrio",
+    "dex": 51,
+    "version": "firered",
+    "height": 7,
+    "weight": 333,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
+  },
+  {
+    "name": "meowth",
+    "dex": 52,
+    "version": "firered",
+    "height": 4,
+    "weight": 42,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png"
+  },
+  {
+    "name": "persian",
+    "dex": 53,
+    "version": "firered",
+    "height": 10,
+    "weight": 320,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
+  },
+  {
+    "name": "psyduck",
+    "dex": 54,
+    "version": "firered",
+    "height": 8,
+    "weight": 196,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+  },
+  {
+    "name": "golduck",
+    "dex": 55,
+    "version": "firered",
+    "height": 17,
+    "weight": 766,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
+  },
+  {
+    "name": "mankey",
+    "dex": 56,
+    "version": "firered",
+    "height": 5,
+    "weight": 280,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png"
+  },
+  {
+    "name": "primeape",
+    "dex": 57,
+    "version": "firered",
+    "height": 10,
+    "weight": 320,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+  },
+  {
+    "name": "growlithe",
+    "dex": 58,
+    "version": "firered",
+    "height": 7,
+    "weight": 190,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png"
+  },
+  {
+    "name": "arcanine",
+    "dex": 59,
+    "version": "firered",
+    "height": 19,
+    "weight": 1550,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
+  },
+  {
+    "name": "poliwag",
+    "dex": 60,
+    "version": "firered",
+    "height": 6,
+    "weight": 124,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
+  },
+  {
+    "name": "poliwhirl",
+    "dex": 61,
+    "version": "firered",
+    "height": 10,
+    "weight": 200,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
+  },
+  {
+    "name": "poliwrath",
+    "dex": 62,
+    "version": "firered",
+    "height": 13,
+    "weight": 540,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
+  },
+  {
+    "name": "abra",
+    "dex": 63,
+    "version": "firered",
+    "height": 9,
+    "weight": 195,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png"
+  },
+  {
+    "name": "kadabra",
+    "dex": 64,
+    "version": "firered",
+    "height": 13,
+    "weight": 565,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+  },
+  {
+    "name": "alakazam",
+    "dex": 65,
+    "version": "firered",
+    "height": 15,
+    "weight": 480,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
+  },
+  {
+    "name": "machop",
+    "dex": 66,
+    "version": "firered",
+    "height": 8,
+    "weight": 195,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+  },
+  {
+    "name": "machoke",
+    "dex": 67,
+    "version": "firered",
+    "height": 15,
+    "weight": 705,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
+  },
+  {
+    "name": "machamp",
+    "dex": 68,
+    "version": "firered",
+    "height": 16,
+    "weight": 1300,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
+  },
+  {
+    "name": "bellsprout",
+    "dex": 69,
+    "version": "firered",
+    "height": 7,
+    "weight": 40,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png"
+  },
+  {
+    "name": "weepinbell",
+    "dex": 70,
+    "version": "firered",
+    "height": 10,
+    "weight": 64,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png"
+  },
+  {
+    "name": "victreebel",
+    "dex": 71,
+    "version": "firered",
+    "height": 17,
+    "weight": 155,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
+  },
+  {
+    "name": "tentacool",
+    "dex": 72,
+    "version": "firered",
+    "height": 9,
+    "weight": 455,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png"
+  },
+  {
+    "name": "tentacruel",
+    "dex": 73,
+    "version": "firered",
+    "height": 16,
+    "weight": 550,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png"
+  },
+  {
+    "name": "geodude",
+    "dex": 74,
+    "version": "firered",
+    "height": 4,
+    "weight": 200,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png"
+  },
+  {
+    "name": "graveler",
+    "dex": 75,
+    "version": "firered",
+    "height": 10,
+    "weight": 1050,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png"
+  },
+  {
+    "name": "golem",
+    "dex": 76,
+    "version": "firered",
+    "height": 14,
+    "weight": 3000,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
+  },
+  {
+    "name": "ponyta",
+    "dex": 77,
+    "version": "firered",
+    "height": 10,
+    "weight": 300,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
+  },
+  {
+    "name": "rapidash",
+    "dex": 78,
+    "version": "firered",
+    "height": 17,
+    "weight": 950,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png"
+  },
+  {
+    "name": "slowpoke",
+    "dex": 79,
+    "version": "firered",
+    "height": 12,
+    "weight": 360,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png"
+  },
+  {
+    "name": "slowbro",
+    "dex": 80,
+    "version": "firered",
+    "height": 16,
+    "weight": 785,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+  },
+  {
+    "name": "magnemite",
+    "dex": 81,
+    "version": "firered",
+    "height": 3,
+    "weight": 60,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
+  },
+  {
+    "name": "magneton",
+    "dex": 82,
+    "version": "firered",
+    "height": 10,
+    "weight": 600,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+  },
+  {
+    "name": "farfetchd",
+    "dex": 83,
+    "version": "firered",
+    "height": 8,
+    "weight": 150,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
+  },
+  {
+    "name": "doduo",
+    "dex": 84,
+    "version": "firered",
+    "height": 14,
+    "weight": 392,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png"
+  },
+  {
+    "name": "dodrio",
+    "dex": 85,
+    "version": "firered",
+    "height": 18,
+    "weight": 852,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+  },
+  {
+    "name": "seel",
+    "dex": 86,
+    "version": "firered",
+    "height": 11,
+    "weight": 900,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
+  },
+  {
+    "name": "dewgong",
+    "dex": 87,
+    "version": "firered",
+    "height": 17,
+    "weight": 1200,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
+  },
+  {
+    "name": "grimer",
+    "dex": 88,
+    "version": "firered",
+    "height": 9,
+    "weight": 300,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png"
+  },
+  {
+    "name": "muk",
+    "dex": 89,
+    "version": "firered",
+    "height": 12,
+    "weight": 300,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png"
+  },
+  {
+    "name": "shellder",
+    "dex": 90,
+    "version": "firered",
+    "height": 3,
+    "weight": 40,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png"
+  },
+  {
+    "name": "cloyster",
+    "dex": 91,
+    "version": "firered",
+    "height": 15,
+    "weight": 1325,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
+  },
+  {
+    "name": "gastly",
+    "dex": 92,
+    "version": "firered",
+    "height": 13,
+    "weight": 1,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+  },
+  {
+    "name": "haunter",
+    "dex": 93,
+    "version": "firered",
+    "height": 16,
+    "weight": 1,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png"
+  },
+  {
+    "name": "gengar",
+    "dex": 94,
+    "version": "firered",
+    "height": 15,
+    "weight": 405,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+  },
+  {
+    "name": "onix",
+    "dex": 95,
+    "version": "firered",
+    "height": 88,
+    "weight": 2100,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+  },
+  {
+    "name": "drowzee",
+    "dex": 96,
+    "version": "firered",
+    "height": 10,
+    "weight": 324,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
+  },
+  {
+    "name": "hypno",
+    "dex": 97,
+    "version": "firered",
+    "height": 16,
+    "weight": 756,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
+  },
+  {
+    "name": "krabby",
+    "dex": 98,
+    "version": "firered",
+    "height": 4,
+    "weight": 65,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
+  },
+  {
+    "name": "kingler",
+    "dex": 99,
+    "version": "firered",
+    "height": 13,
+    "weight": 600,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+  },
+  {
+    "name": "voltorb",
+    "dex": 100,
+    "version": "firered",
+    "height": 5,
+    "weight": 104,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+  },
+  {
+    "name": "electrode",
+    "dex": 101,
+    "version": "firered",
+    "height": 12,
+    "weight": 666,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+  },
+  {
+    "name": "exeggcute",
+    "dex": 102,
+    "version": "firered",
+    "height": 4,
+    "weight": 25,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+  },
+  {
+    "name": "exeggutor",
+    "dex": 103,
+    "version": "firered",
+    "height": 20,
+    "weight": 1200,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+  },
+  {
+    "name": "cubone",
+    "dex": 104,
+    "version": "firered",
+    "height": 4,
+    "weight": 65,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+  },
+  {
+    "name": "marowak",
+    "dex": 105,
+    "version": "firered",
+    "height": 10,
+    "weight": 450,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
+  },
+  {
+    "name": "hitmonlee",
+    "dex": 106,
+    "version": "firered",
+    "height": 15,
+    "weight": 498,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+  },
+  {
+    "name": "hitmonchan",
+    "dex": 107,
+    "version": "firered",
+    "height": 14,
+    "weight": 502,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png"
+  },
+  {
+    "name": "lickitung",
+    "dex": 108,
+    "version": "firered",
+    "height": 12,
+    "weight": 655,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png"
+  },
+  {
+    "name": "koffing",
+    "dex": 109,
+    "version": "firered",
+    "height": 6,
+    "weight": 10,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
+  },
+  {
+    "name": "weezing",
+    "dex": 110,
+    "version": "firered",
+    "height": 12,
+    "weight": 95,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png"
+  },
+  {
+    "name": "rhyhorn",
+    "dex": 111,
+    "version": "firered",
+    "height": 10,
+    "weight": 1150,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png"
+  },
+  {
+    "name": "rhydon",
+    "dex": 112,
+    "version": "firered",
+    "height": 19,
+    "weight": 1200,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+  },
+  {
+    "name": "chansey",
+    "dex": 113,
+    "version": "firered",
+    "height": 11,
+    "weight": 346,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+  },
+  {
+    "name": "tangela",
+    "dex": 114,
+    "version": "firered",
+    "height": 10,
+    "weight": 350,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+  },
+  {
+    "name": "kangaskhan",
+    "dex": 115,
+    "version": "firered",
+    "height": 22,
+    "weight": 800,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+  },
+  {
+    "name": "horsea",
+    "dex": 116,
+    "version": "firered",
+    "height": 4,
+    "weight": 80,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+  },
+  {
+    "name": "seadra",
+    "dex": 117,
+    "version": "firered",
+    "height": 12,
+    "weight": 250,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+  },
+  {
+    "name": "goldeen",
+    "dex": 118,
+    "version": "firered",
+    "height": 6,
+    "weight": 150,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+  },
+  {
+    "name": "seaking",
+    "dex": 119,
+    "version": "firered",
+    "height": 13,
+    "weight": 390,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png"
+  },
+  {
+    "name": "staryu",
+    "dex": 120,
+    "version": "firered",
+    "height": 8,
+    "weight": 345,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
+  },
+  {
+    "name": "starmie",
+    "dex": 121,
+    "version": "firered",
+    "height": 11,
+    "weight": 800,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
+  },
+  {
+    "name": "mr-mime",
+    "dex": 122,
+    "version": "firered",
+    "height": 13,
+    "weight": 545,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png"
+  },
+  {
+    "name": "scyther",
+    "dex": 123,
+    "version": "firered",
+    "height": 15,
+    "weight": 560,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+  },
+  {
+    "name": "jynx",
+    "dex": 124,
+    "version": "firered",
+    "height": 14,
+    "weight": 406,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png"
+  },
+  {
+    "name": "electabuzz",
+    "dex": 125,
+    "version": "firered",
+    "height": 11,
+    "weight": 300,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png"
+  },
+  {
+    "name": "magmar",
+    "dex": 126,
+    "version": "firered",
+    "height": 13,
+    "weight": 445,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png"
+  },
+  {
+    "name": "pinsir",
+    "dex": 127,
+    "version": "firered",
+    "height": 15,
+    "weight": 550,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
+  },
+  {
+    "name": "tauros",
+    "dex": 128,
+    "version": "firered",
+    "height": 14,
+    "weight": 884,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
+  },
+  {
+    "name": "magikarp",
+    "dex": 129,
+    "version": "firered",
+    "height": 9,
+    "weight": 100,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+  },
+  {
+    "name": "gyarados",
+    "dex": 130,
+    "version": "firered",
+    "height": 65,
+    "weight": 2350,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
+  },
+  {
+    "name": "lapras",
+    "dex": 131,
+    "version": "firered",
+    "height": 25,
+    "weight": 2200,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+  },
+  {
+    "name": "ditto",
+    "dex": 132,
+    "version": "firered",
+    "height": 3,
+    "weight": 40,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png"
+  },
+  {
+    "name": "eevee",
+    "dex": 133,
+    "version": "firered",
+    "height": 3,
+    "weight": 65,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+  },
+  {
+    "name": "vaporeon",
+    "dex": 134,
+    "version": "firered",
+    "height": 10,
+    "weight": 290,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png"
+  },
+  {
+    "name": "jolteon",
+    "dex": 135,
+    "version": "firered",
+    "height": 8,
+    "weight": 245,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+  },
+  {
+    "name": "flareon",
+    "dex": 136,
+    "version": "firered",
+    "height": 9,
+    "weight": 250,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+  },
+  {
+    "name": "porygon",
+    "dex": 137,
+    "version": "firered",
+    "height": 8,
+    "weight": 365,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png"
+  },
+  {
+    "name": "omanyte",
+    "dex": 138,
+    "version": "firered",
+    "height": 4,
+    "weight": 75,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png"
+  },
+  {
+    "name": "omastar",
+    "dex": 139,
+    "version": "firered",
+    "height": 10,
+    "weight": 350,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png"
+  },
+  {
+    "name": "kabuto",
+    "dex": 140,
+    "version": "firered",
+    "height": 5,
+    "weight": 115,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png"
+  },
+  {
+    "name": "kabutops",
+    "dex": 141,
+    "version": "firered",
+    "height": 13,
+    "weight": 405,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png"
+  },
+  {
+    "name": "aerodactyl",
+    "dex": 142,
+    "version": "firered",
+    "height": 18,
+    "weight": 590,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png"
+  },
+  {
+    "name": "snorlax",
+    "dex": 143,
+    "version": "firered",
+    "height": 21,
+    "weight": 4600,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+  },
+  {
+    "name": "articuno",
+    "dex": 144,
+    "version": "firered",
+    "height": 17,
+    "weight": 554,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png"
+  },
+  {
+    "name": "zapdos",
+    "dex": 145,
+    "version": "firered",
+    "height": 16,
+    "weight": 526,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+  },
+  {
+    "name": "moltres",
+    "dex": 146,
+    "version": "firered",
+    "height": 20,
+    "weight": 600,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png"
+  },
+  {
+    "name": "dratini",
+    "dex": 147,
+    "version": "firered",
+    "height": 18,
+    "weight": 33,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+  },
+  {
+    "name": "dragonair",
+    "dex": 148,
+    "version": "firered",
+    "height": 40,
+    "weight": 165,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+  },
+  {
+    "name": "dragonite",
+    "dex": 149,
+    "version": "firered",
+    "height": 22,
+    "weight": 2100,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
+  },
+  {
+    "name": "mewtwo",
+    "dex": 150,
+    "version": "firered",
+    "height": 20,
+    "weight": 1220,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
+  },
+  {
+    "name": "mew",
+    "dex": 151,
+    "version": "firered",
+    "height": 4,
+    "weight": 40,
+    "imgUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "imgOfficial": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png"
+  }
+]
